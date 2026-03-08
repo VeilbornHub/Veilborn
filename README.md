@@ -6,4 +6,4 @@ Equip Axe and press H for chopping trees. (You might want to press it again to t
 
 V for reloading/cleaning/worming cannons (press again and again after like 2 seconds to do the next step) [Note: Be careful, as this might affect nearby enemy cannons]
 
-M for attacking destructible buildings. Must have melee equipped. (anything you can melee, forts too!)
+M for attacking destructible buildings within 125 studs. Must have melee equipped. (anything you can melee, forts too!)
